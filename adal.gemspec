@@ -23,12 +23,12 @@
 require File.expand_path('../lib/adal/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name = 'adal'
+  s.name = 'mse-adal'
   s.version = ADAL::Version
 
   s.summary = 'ADAL for Ruby'
   s.description = 'Windows Azure Active Directory authentication client library'
-  s.homepage = 'http://github.com/AzureAD/azure-activedirectory-library-for-ruby'
+  s.homepage = 'https://github.com/cosmincojocar/azure-activedirectory-library-for-ruby'
   s.license = 'MIT'
 
   s.require_paths = ['lib']

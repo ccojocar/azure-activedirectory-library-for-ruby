@@ -6,10 +6,12 @@ The ADAL for Ruby library makes it easy for Ruby applications to authenticate to
 
 ## Installation
 
+** Note: this is a fork of [adal](https://github.com/AzureAD/azure-activedirectory-library-for-ruby) gem.**
+
 You can install the ADAL gem with Rubygems.
 
 ```
-gem install adal
+gem install mse-adal
 ```
 
 Alternatively, you can build the gem from scratch.
